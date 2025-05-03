@@ -1,9 +1,3 @@
 .DS_Store
 
 Demo_Image/
-prompts/*
-!prompts/
-emojis/*
-!emojis/
-libs/*
-!libs/
